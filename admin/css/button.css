@@ -1,0 +1,62 @@
+.btn-box,
+.btn-save
+{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  color: #fff2f9;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.btn-box {
+  background-color: #f54c59;
+  border: 1px solid #f54c59;
+}
+.btn-box:active,
+.btn-box:focus,
+.btn-box:hover {
+  background-color: #f23342;
+  border: 1px solid #f23342;
+}
+.btn-save {
+  background-color: #4bd396;
+  border: 1px solid #4bd396;
+  margin-bottom: 50px;
+}
+.btn-save:active,
+.btn-save:focus,
+.btn-save:hover {
+  background-color: #37ce8a;
+  border: 1px solid #37ce8a;
+}
+/* =============
+   Tables
+============= */
+.form-group1 {
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  border-radius: 5px;
+  background-clip: padding-box;
+  margin-bottom: 20px;
+}
+th {
+  font-family: sans-serif;
+  font-weight: 600;
+}
+th, td {
+  padding: 8px;
+}
+.table-trash {
+  width: 100%;
+  margin: 0;
+  border: none;
+  border-collapse: collapse;
+}
+tr.color1 {
+  color: #fff2f9;
+  background-color: #3b3e47;
+}
